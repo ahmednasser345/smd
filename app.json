@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Reminder",
+    "slug": "Reminder",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "assets/0D1C673E-93B8-48D6-8215-586CA88F1F6C-removebg-preview.png",
+    "splash": {
+      "image": "assets/0D1C673E-93B8-48D6-8215-586CA88F1F6C-removebg-preview.png",
+      "resizeMode": "contain",
+
+      "backgroundColor": "#ffffff"
+    },
+    "notification": {
+      "color": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
